@@ -1,1 +1,8 @@
+title: OpenCPMS
+description: Lightweight and Scalable Chargepoint Management System
+github:
+  repository_url: https://github.com/linked-planet/opencpms
+  owner_url: https://www.linked-planet.com
+  owner_name: linked-planet GmbH
+  imprint_url: /imprint
 theme: jekyll-theme-slate
