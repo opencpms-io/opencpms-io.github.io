@@ -17,7 +17,7 @@ race to build and run the charging infrastructure the electric vehicles will nee
 Beside of the mandatory technical systems for the charging stations in the field, several - so called - 
 "Charge Point Management Systems" emerged on the market. On the one hand developed and run as a 
 shared cloud solution (SaaS solutions) like <a href="https://driivz.com">driivz</a> or 
-<a href="The Beginning of the OpenCPMS Story">be.ENERGISED</a> and on the other hand individually developed solutions to operate
+<a href="https://www.chargepoint.com/de-de/partners/overview">be.ENERGISED</a> and on the other hand individually developed solutions to operate
 for the own business. The latter systems were build e.q. for Allego, EnBW or Innogy. 
 
 Companies that want to provide charging services to their customers, either as the main business or
