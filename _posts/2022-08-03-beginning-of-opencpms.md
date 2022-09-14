@@ -37,7 +37,7 @@ In simple terms, OpenCPMS ist the basic system that is able to talk to and manag
 (using <a href="https://www.openchargealliance.org/protocols/">OCPP</a>). On the other side it integrates to your billing system and takes care of secure authentications.
 A simple (as a basic implementation) administration frontend will give you insights about your charging infrastructure and
 the historic and currently running transactions. Our aim is not to provide an out of the box (turn key solution). We want to 
-give you a framework that enables rapid development of system that can be run by professional charge point operators.
+give you a framework that enables rapid development of powerful systems which are operated by professional charge point operators.
 
 OpenCPMS emerges, but it is still in its infancy. So let us see, where the journey leads us...
 
