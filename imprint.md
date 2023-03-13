@@ -2,7 +2,7 @@
 
 ### Provider according to § 5 Telemediengesetz (TMG)
 linked-planet GmbH
-Rundfunkplatz 2
+Hopfenstraße 6
 80335 Munich
 
 ###  Contact

@@ -1,15 +1,15 @@
 ---
-title:  "2022-08-03 The Beginning of OpenCPMS"
+title:  "2022-08-03 The Beginning of OpenCPMS Core"
 ---
 
-## The Beginning of OpenCPMS
+## The Beginning of OpenCPMS Core
 
 ### Nomen est Omen 
-OpenCPMS is our contribution to provide a true open source system as a base 
+OpenCPMS Core is our contribution to provide a true open source system as a base 
 for charge point operators who are looking for a lightweight and highly scalable charge point 
 management system.  
 
-### Why we launched the OpenCPMS project
+### Why we launched the OpenCPMS Core project
 We have been building software in the field of e-mobility and charging infrastructure for four years now.
 I would say, if there is somewhere a highly emerging market in the field of mobility, than it is the 
 race to build and run the charging infrastructure the electric vehicles will need in the upcoming years. 
@@ -32,7 +32,7 @@ complexity.
 We believe in Open Source. And therefore we believe that an open source framework for a flexible (adaptable)
 charge point management that can be used in a professional environment should exist.
 
-### The scope of OpenCPMS
+### The scope of OpenCPMS Core
 In simple terms, OpenCPMS ist the basic system that is able to talk to and manage your charging stations in the field 
 (using <a href="https://www.openchargealliance.org/protocols/">OCPP</a>). On the other side it integrates to your billing system and takes care of secure authentications.
 A simple (as a basic implementation) administration frontend will give you insights about your charging infrastructure and
