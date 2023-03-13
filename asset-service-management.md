@@ -13,14 +13,14 @@ from transformers to connectors, from SIM cards to NFC terminals / manufacturers
 service partners / emergency instructions / EV compatibilities / connections to EMPs / 
 tariffs / etc.
 
-#### Rollout und Commissioning
+#### Rollout and Commissioning
 
 keep and overview from site sourcing to retrofitting / 
 with modern interfaces and the full power of Jira and Confluence / 
 no more heterogeneous office documents / historicized and traceable field service / 
 overview of serial numbers and versions
 
-#### Incident und Problem Management
+#### Incident and Problem Management
 
 automatic asset linking / direct integration with your backend system / 
 duplicate detection / automatic dispatching to service partners / 
